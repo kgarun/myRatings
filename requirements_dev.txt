@@ -23,7 +23,7 @@ imagesize==1.1.0
 Jinja2==2.10
 jinja2-time==0.2.0
 lxml==4.3.2
-MarkupSafe==1.0
+MarkupSafe==1.1.1
 mccabe==0.6.1
 pathtools==0.1.2
 pkginfo==1.4.2
