@@ -16,7 +16,7 @@ coverage==4.5.2
 cryptography==2.6.1
 docutils==0.14
 dryscrape==1.0
-flake8==3.6.0
+flake8==3.7.7
 future==0.17.1
 idna==2.7
 imagesize==1.1.0
