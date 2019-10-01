@@ -45,7 +45,7 @@ snowballstemmer==1.9.1
 Sphinx==2.2.0
 sphinxcontrib-websupport==1.1.2
 tabulate==0.8.5
-texttable==1.4.0
+texttable==1.6.2
 tox==3.5.3
 tqdm==4.28.1
 twine==1.12.1
