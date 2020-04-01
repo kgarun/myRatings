@@ -53,5 +53,5 @@ urllib3==1.25.8
 virtualenv==20.0.15
 watchdog==0.10.2
 webkit-server==1.0
-whichcraft==0.5.2
+whichcraft==0.6.1
 xvfbwrapper==0.2.9
