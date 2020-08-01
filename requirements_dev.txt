@@ -44,7 +44,7 @@ six==1.15.0
 snowballstemmer==2.0.0
 Sphinx==3.1.2
 sphinxcontrib-websupport==1.2.3
-tabulate==0.8.2
+tabulate==0.8.7
 texttable==1.4.0
 tox==3.5.3
 tqdm==4.28.1
