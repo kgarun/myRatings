@@ -49,7 +49,7 @@ texttable==1.6.3
 tox==3.20.1
 tqdm==4.51.0
 twine==3.2.0
-urllib3==1.24
+urllib3==1.25.11
 virtualenv==16.1.0
 watchdog==0.9.0
 webkit-server==1.0
